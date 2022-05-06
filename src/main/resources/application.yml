@@ -1,0 +1,3 @@
+spring:
+  security:
+    secret: 1x2y3zabcpraneethdef4u5v6w
